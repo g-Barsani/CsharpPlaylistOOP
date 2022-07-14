@@ -3,7 +3,7 @@ using System;
 class Student
 {
     // Attributes
-    public string name;
+    public string name = string.Empty;
     public double grade1, grade2;
 
     // Avarage
@@ -13,8 +13,20 @@ class Student
     }
 
     // Situation
-    
-
+    public string situation(double avarage)
+    {
+        return avarage >= 7 ? "Passed" : "Failed";
+    }
     // Message
+    public void message()
+    {
+        // Get avarage 
+        double getAvarage = avarage();
 
+        // Get situation
+        string getSituation = situation(getAvarage);
+
+        // Message
+        Console.WriteLine(name+ " has " +getSituation+ " with avarage of " +getAvarage);
+    }
 }
