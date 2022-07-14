@@ -4,3 +4,6 @@
 *.cache
 **/bin
 **/obj
+**/obj/Debug
+*/obj
+*/obj/Debug
