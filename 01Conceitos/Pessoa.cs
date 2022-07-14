@@ -9,8 +9,7 @@ class Pessoa // class -> blueprint, molde
     // Methods (functions)
     public void message()
     {
-        Console.WriteLine("Hello "+name+ ", you are " +age+ " years old");
+        Console.WriteLine("Hello " + name + ", you are " + age + " years old");
     }
+    //Valeu Gabaiel
 }
-
-// daksdbksahdkadbjaksdk
