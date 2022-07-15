@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\bin\Debug\net6.0\04BMIExercise.exe
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\bin\Debug\net6.0\04BMIExercise.deps.json
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\bin\Debug\net6.0\04BMIExercise.runtimeconfig.json
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\bin\Debug\net6.0\04BMIExercise.dll
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\bin\Debug\net6.0\04BMIExercise.pdb
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.dll
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\refint\04BMIExercise.dll
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.pdb
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\04BMIExercise.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\OOP C#\CsharpPlaylistOOP\04BMIExercise\obj\Debug\net6.0\ref\04BMIExercise.dll

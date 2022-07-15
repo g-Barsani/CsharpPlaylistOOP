@@ -3,24 +3,48 @@ using System;
 class Person 
 {
     // Attributes
-    public double? weight, height;
+    public double weight, height;
 
     // Methods
     public double BMI()
     {
-        weight / height ** 2;
+        return weight / (height * height);
     }
 
     public string situation(double BMI)
     {
-        if (2 > 1)
-        {
-            return Console.WriteLine("OK");
-        }
+        string s = "";
+        if (BMI >= 40)
+            s = "Obesity III";
+
+        if (BMI < 40)
+            s = "Obesity II";
+
+        if (BMI < 35)
+            s = "Obesity I";
+
+        if (BMI < 30)
+            s = "Overweight";
+
+        if (BMI < 25)
+            s = "Normal Weight";
+
+        if (BMI < 18.5)
+            s = "Underweight";
+
+        return s;
     }
 
     public void message()
     {
-        double getIMC = situation();
+        // Get BMI
+        double getBMI = BMI();
+
+        // Get situation
+        string getSituation = situation(getBMI);
+
+        // Message
+        Console.WriteLine("BMI: "+BMI());
+        Console.WriteLine(getSituation);
     }
 }
