@@ -7,7 +7,7 @@ namespace _04BMIExercise
         static void Main(string[] args)
         {
             Person p = new Person();
-            p.weight = 190.0;
+            p.weight = 130.0;
             p.height = 2.5;
             p.message();
         }
