@@ -8,7 +8,7 @@ namespace _04BMIExercise
         {
             Person p = new Person();
             p.weight = 130.0;
-            p.height = 2.5;
+            p.height = 1.5;
             p.message();
         }
     }
