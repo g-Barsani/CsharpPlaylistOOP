@@ -10,7 +10,7 @@ namespace _13Abstraction
             np.taxLoan(1000);
 
             LegalPerson lp = new LegalPerson();
-            np.taxLoan(1000);
+            lp.taxLoan(1000);
         }
     }
 }
